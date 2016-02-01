@@ -1,8 +1,7 @@
 # R-Same-Code
-var r_text = new Array (); 
-r_text[0] = "I was just thinking about you!"; 
-r_text[1] = "You are a great example for others."; 
-r_text[2] = "You have great ideas."; 
-r_text[3] = "When I grow up I want to be you!"; 
-r_text[4] = "I appreciate all of your opinions."; 
+I was just thinking about you.
+You are a great example for others.
+You have great ideas.
+When I grow up I want to be you!
+I appreciate all of your opinions.
 
